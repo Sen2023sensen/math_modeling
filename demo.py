@@ -6,7 +6,7 @@ from scipy.stats import f_oneway
 
 # 方差分析与事后多重比较
 
-# 创建数据 first branch i
+# 创建数据 合并版本 master 修改
 
 np.random.seed(0)  # 设置随机种子以保证结果可复现  
 
